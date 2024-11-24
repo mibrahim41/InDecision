@@ -2,13 +2,13 @@
 
 ![vote](vote.jpg)
 
-This project examines claims made by presidential candidates about factors that impact Americans' daily lives. The goal of this project is to provide voters with a clear, data-driven understanding of key political issues: student loan debt, economic health, abortion, and immigration. Through narrative visualizations, we aim to help voters make informed decisions based on facts and trends, rather than rhetoric alone.
+This project examines claims made by presidential candidates about factors that impact Americans' daily lives. The goal of this project is to provide voters with a clear, data-driven understanding of key political issues: student loan debt, economic health, immigration, and crime. Through narrative visualizations, we aim to help voters make informed decisions based on facts and trends, rather than rhetoric alone.
 
 # Topics
 
 1. Student Loans
 2. Economy
-3. Immigration & Abortion
+3. Immigration & Crime
 
 # Student Loans
 
@@ -143,6 +143,16 @@ as the economy bounced back from the pandemic-induced downturn.
 Again, it is important to remember that Trump inherited low unemployment from Obama (which does also make it harder 
 to show strong job creation), but also averaged fewer jobs created than his predecessor and successor. 
 
+# Immigration and Crime
+Immigration has been a very hot topic in the most recent election, with both presidential candidates making various claims about recent immigration trends and their effect on the US. One side, Harris claimed that Biden's administration "halved the flow of immigrants" into the country. On the other, however, Trump has claimed that the day he left office experienced the "lowest illegal immigration in US history", and that the Biden administration has spent "millions" bringing in immigrants from other countries. He also claimed that immigrants "poison the blood of our society", referring to them as "animals" and "rough people". In the following we study the claims made by both candidates with the goal of verifying or disproving their various aspects.
+
+## Overall Documented Immigration and Crime Trends
+
+## Estimated History of Illegal Immigration in Sanctuary and Non-Sanctuary States
+
+## Crime Rate Rankings of All States
+
+## Explore Crime Rate and Immigrant Rate Trends!
 
 
 
